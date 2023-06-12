@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\WinCalc\bin\Release\WinCalc.exe.config
+C:\Users\Admin\source\repos\WinCalc\bin\Release\WinCalc.exe
+C:\Users\Admin\source\repos\WinCalc\bin\Release\WinCalc.pdb
+C:\Users\Admin\source\repos\WinCalc\bin\Release\MathParser.org-mXparser.dll
+C:\Users\Admin\source\repos\WinCalc\obj\Release\WinCalc.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\WinCalc\obj\Release\WinCalc.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\WinCalc\obj\Release\WinCalc.Calculator.resources
+C:\Users\Admin\source\repos\WinCalc\obj\Release\WinCalc.Function.resources
+C:\Users\Admin\source\repos\WinCalc\obj\Release\WinCalc.Properties.Resources.resources
+C:\Users\Admin\source\repos\WinCalc\obj\Release\WinCalc.Trigonometry.resources
+C:\Users\Admin\source\repos\WinCalc\obj\Release\WinCalc.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\WinCalc\obj\Release\WinCalc.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\WinCalc\obj\Release\WinCalc.csproj.CopyComplete
+C:\Users\Admin\source\repos\WinCalc\obj\Release\WinCalc.exe
+C:\Users\Admin\source\repos\WinCalc\obj\Release\WinCalc.pdb
